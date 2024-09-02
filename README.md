@@ -1,4 +1,4 @@
-# 💻Cloud-Security-with-AWS-IAM☁️
+# 💻Cloud-Security-Project-using-AWS-IAM☁️
 
 Hi! Welcome to my repository containing my AWS Project I've have undertaken on my Cloud joruney⚡️:
 
