@@ -12,10 +12,10 @@ This  project demonstatres how I have effecitvely used AWS Identity and Access M
 
 ## **Architecture**
 
-1. **EC2 Instances:** 
-2. **IAM Policies:**
-3. **IAM User Groups and Users:**
-4. **AWS Alias Account:**
+1. **EC2 Instances:** EC2 instances were utilised as the core computing resources to run applications or services within the AWS cloud.
+2. **IAM Policies:** Custom IAM policies were created to define specific permissions, controlling access to AWS resources for users and groups.
+3. **IAM User Groups and Users:** User groups were created to aggregate users, enabling simplified management of permissions by attaching policies to groups rather than individual users.
+4. **AWS Alias Account:** An AWS alias was configured to create a more user-friendly login URL, improving the usability of the AWS management console.
 
 
 ## **Deployment Steps**
