@@ -1,6 +1,6 @@
 # 💻Cloud-Security-Project-using-AWS-IAM☁️
 
-Hi! Welcome to my repository containing my AWS Project I've have undertaken on my Cloud joruney⚡️:
+Hi! Welcome to my repository containing my AWS Project I've have undertaken as an AWS expert and Cloud enthusiast⚡️:
 
 In this repository you will see a description of the project, high level architecture, any scripting files that may be relevant to the project and information on other key assets that I have used to develop this project as part of my portfolio.
 
